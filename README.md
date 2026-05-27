@@ -155,7 +155,7 @@ Blockers   →  Trundle continua dando face-check nos meus PRs sem ler
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/2f/36/1b/2f361b9cb47de0eff4e11aeb4e2aeabe.jpg" width="100%"/>
+<img src="https://i.pinimg.com/736x/fe/40/37/fe40371fa9c3947aa0c77a2ceedb815a.jpg" width="75px" height="75px"/>
 
 <br/><br/>
 
