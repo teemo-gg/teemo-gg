@@ -57,6 +57,11 @@ I'm a **full-stack yordle** with **10,000+ hours** of solo recon, trap engineeri
 
 <div align="center">
 <img src="https://i.pinimg.com/736x/f1/6e/66/f16e66a4162517eae803dc2e5bd7d17b.jpg" width="75px" height="75px" />
+<img src="https://i.pinimg.com/736x/52/9c/48/529c48c630af69243055e2020297bd35.jpg" width="75px" height="75px" />
+<img src="https://i.pinimg.com/736x/2e/c4/1f/2ec41fa3a4b3fbee0cd174f6287f33ec.jpg" width="75px" height="75px" />
+<img src="https://i.pinimg.com/1200x/c7/c0/5e/c7c05ec3892e22f260defe869271e220.jpg" width="75px" height="75px" />
+<img src="https://i.pinimg.com/736x/0a/70/cf/0a70cf7bc1322a3e0486d96f6c904c82.jpg" width="75px" height="75px" />
+<img src="https://i.pinimg.com/736x/20/3f/43/203f43b027b1089407eca1355d465ef9.jpg" width="75px" height="75px" />
 </div>
 
 <br/>
