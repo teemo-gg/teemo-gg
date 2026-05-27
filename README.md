@@ -11,7 +11,7 @@
    ╚═╝   ╚══════╝╚══════╝╚═╝     ╚═╝ ╚═════╝
 ```
 
-<img src="https://i.pinimg.com/736x/b7/6e/ae/b76eae37283f72f52c9ff9db47cbbc7c.jpg" width="220px" style="border-radius:50%;" />
+<img src="https://i.pinimg.com/736x/4b/6c/26/4b6c26ed2ef8c053f825a45ff20e5858.jpg" width="220px" style="border-radius:50%;" />
 
 <br/>
 
