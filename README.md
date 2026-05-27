@@ -56,7 +56,7 @@ I'm a **full-stack yordle** with **10,000+ hours** of solo recon, trap engineeri
 ## ⚔️ Arsenal Técnico
 
 <div align="center">
-<img src="https://i.pinimg.com/736x/f1/6e/66/f16e66a4162517eae803dc2e5bd7d17b.jpg" width="100%" />
+<img src="https://i.pinimg.com/736x/f1/6e/66/f16e66a4162517eae803dc2e5bd7d17b.jpg" width="75px" height="75px" />
 </div>
 
 <br/>
