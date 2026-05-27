@@ -67,13 +67,13 @@ I'm a **full-stack yordle** with **10,000+ hours** of solo recon, trap engineeri
 <br/>
 
 ```
-⚡ Languages   →   Python 🐍  |  TypeScript  |  Go (move speed ++)  |  Rust (for the toxicity)
-🧱 Frameworks  →   FastAPI  |  Next.js  |  Gin  |  Spring Boot (when I'm feeling evil)
-🗄️ Databases   →   PostgreSQL  |  Redis (traps expire, caches expire — same thing)  |  MongoDB
-☁️ Cloud       →   AWS  |  GCP  |  Azure  (traps on all three. just in case.)
-🐳 DevOps      →   Docker  |  Kubernetes  |  Terraform  |  ArgoCD
-👁️ Monitoring  →   Grafana  |  Datadog  |  Prometheus  (vision ward equivalent)
-📬 Queues      →   Kafka  |  RabbitMQ  (async poison delivery)
+⚡ Languages   →   JS  |  TS (for the toxicity)
+🧱 Frameworks  →   Nest.js  |  Next.js (when I'm feeling evil)
+🗄️ Databases   →   PostgreSQL  |  Redis (traps expire, caches expire — same thing)  |  InfluxDB
+☁️ Cloud       →   AWS (traps on all three. just in case.)
+🐳 DevOps      →   Docker
+👁️ Monitoring  →   Grafana  |  Prometheus  (vision ward equivalent)
+📬 Queues      →   BullMQ  (async poison delivery)
 ```
 
 > 🍄 **ORM of choice:** anything that doesn't slow me down. I move at **+10% movement speed** at all times.
@@ -81,12 +81,6 @@ I'm a **full-stack yordle** with **10,000+ hours** of solo recon, trap engineeri
 ---
 
 ## 🚀 Projetos em Campo
-
-<div align="center">
-<img src="https://i.pinimg.com/736x/4a/36/cb/4a36cbfc6abaf7b25d765adbc08bfe38.jpg" width="100%"/>
-</div>
-
-<br/>
 
 ### 🍄 `mushroom-deploy`
 
@@ -105,7 +99,7 @@ CI/CD pipeline inspirado na Doutrina de Guerrilha Yordle. Você planta o config 
 
 Bot de review automático que encontra vulnerabilidades, code smells e N+1 queries — e comunica com a agressividade passiva de quem tem 0/10/2 no histórico do time. Integra com GitHub Actions.
 
-**Stack:** `Python` · `Claude API` · `GitHub Actions`
+**Stack:** `Claude` · `GitHub Actions`
 **Status:** `🟡 3 engenheiros pediram demissão. Qualidade de código subiu 300%.`
 
 ---
@@ -121,25 +115,7 @@ Dashboard no terminal que agrega alertas de infra, deploys e incidentes em uma v
 
 ---
 
-## 🎯 Quest Log Atual
-
-```
-[IN PROGRESS]  ████████░░  80%  Refactor do Monolito Yordle em microserviços
-[IN PROGRESS]  ██████░░░░  60%  LLM anomaly detection no blind-spot-monitor
-[BLOCKED]      ███░░░░░░░  30%  Convencer o time que deploy às 3am é OK (eu uso stealth)
-[BACKLOG]      ░░░░░░░░░░   0%  Aprender a me comunicar claramente (baixa prioridade)
-[COMPLETED]    ██████████ 100%  Envenenar todos os callbacks → agora são async/await ✅
-```
-
----
-
 ## 🧠 Princípios que Codifico
-
-<div align="center">
-<img src="https://i.pinimg.com/736x/fc/60/05/fc6005ce4bb1b4c78e74c4d3a946be3d.jpg" width="100%"/>
-</div>
-
-<br/>
 
 > _"A good scout leaves no footprint — only stack traces."_
 
