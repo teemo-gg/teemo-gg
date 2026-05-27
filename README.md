@@ -162,10 +162,12 @@ Blockers   →  Trundle continua dando face-check nos meus PRs sem ler
 ```
 ⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀
 ⠀⠀⠀⣴⣿⣿⣿⣿⣷⡀⠀⠀
-⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⡄⠀    você não me viu.
+⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⡄⠀
 ⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⡇⠀
 ⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⠋⠀
 ⠀⠀⠀⠀⠈⠻⢿⡿⠟⠁⠀⠀
+
+                          você não me viu...
 ```
 
 **"The Mushroom King of Bandle City Engineering"** 🍄
